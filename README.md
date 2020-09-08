@@ -1,16 +1,16 @@
-### Hi there 👋
+# 自我介绍：
+### 大家好鸭！第一次来到博客园，先容菜鸟本鸟的我做一个自我介绍吧！
 
-<!--
-**catwithcute/catwithcute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![](https://img2020.cnblogs.com/blog/2149297/202009/2149297-20200908193356197-1056691139.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我是一枚大三菜鸟，虽说我已经大三了，但是我的编程水平可能还不如大一的同学们，不要问我为什么会这样，我只能流着眼泪说：“当事人就是后悔，非常后悔！”依稀记得那时候刚上大一的我，整日忙于社团活动而没有注重专业课的学习，尤其是入门计算机编程的c语言课程，一朝不学习，十年都头疼啊！！所以强烈建议各位新生一定要给自己打好基础，尤其是因为这个学科不同于高中的学习模式，一定要尽快适应，不然就会像我这个老阿姨一样，都快毕业了还是个菜鸡！
+
+
+![](https://img2020.cnblogs.com/blog/2149297/202009/2149297-20200908193413934-1211528804.png)
+
+### 人生转折点：
+好在大二的我及时回头是岸，努力学习数据结构和计算机组成原理，现在稍微比之前好一些，但距离大佬还是很远很远。但是我现在也在每天不断学习（其实是不想毕业即失业），未来也可能会在我的博客中继续更新最近的所学所想所悟，欢迎大家前来批评指正，也可以和我相约一起学习鸭！
+
+
+![](https://img2020.cnblogs.com/blog/2149297/202009/2149297-20200908193431791-2063069027.png)
