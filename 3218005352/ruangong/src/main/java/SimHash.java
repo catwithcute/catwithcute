@@ -9,6 +9,7 @@ import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
+
 public class SimHash {
 
     private String tokens;
@@ -55,6 +56,7 @@ public class SimHash {
                     v[i] -= 1;
                 }
             }
+
         }
         BigInteger fingerprint = new BigInteger("0");
         StringBuffer simHashBuffer = new StringBuffer();
@@ -73,7 +75,7 @@ public class SimHash {
     }
 
     //将每一个特征映射为f维空间的一个向量
-    private BigInteger hash(String source) {
+    public BigInteger hash(String source) {
         if (source == null || source.length() == 0) {
             return new BigInteger("0");
         } else {
@@ -167,7 +169,7 @@ public class SimHash {
         hash.subByDistance(hash, 3);
         System.out.println("\n");
 
-        String[] str = {"D:/IDEA/ruangong/src/test/Test/orig.txt", "D:/IDEA/ruangong/src/test/Test/orig_0.8_add.txt", "D:/IDEA/ruangong/src/test/Test/orig_0.8_add.txt",
+             String[] str = {"D:/IDEA/ruangong/src/test/Test/orig.txt", "D:/IDEA/ruangong/src/test/Test/orig_0.8_add.txt", "D:/IDEA/ruangong/src/test/Test/orig_0.8_add.txt",
                 "D:/IDEA/ruangong/src/test/Test/orig_0.8_dis_1.txt", "D:/IDEA/ruangong/src/test/Test/orig_0.8_dis_10.txt", "D:/IDEA/ruangong/src/test/Test/orig_0.8_dis_15.txt"};
 
         StringBuffer sb = new StringBuffer();
