@@ -10,6 +10,7 @@ import java.io.IOException;
 public class FileToString {
 
     public  String toString(String s){
+
         String str="";
         // 文件路径
         String fileDirName = s;
